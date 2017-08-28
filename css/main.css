@@ -1,0 +1,97 @@
+/*
+ * Estilos de tu proyecto
+ */
+ a{
+ 	text-decoration: none;
+ 	display: inline-block;
+ 	float: right;
+ 	margin:0px 10px;
+ 	margin-top: 20px;
+ 	color: #fff;
+ 	}
+
+  header p{
+  margin-left: 20px;
+ 	display: inline-block;
+ 	font-size: 20px;
+ 	color: #fff;
+
+ }
+ header{
+ 	background-color: #673f9e;
+ }
+ .start{
+ 	display: flex;
+    justify-content: space-around;
+ 	background-color: #39dfaf;
+ }
+ .start img{
+ 	margin-top:60px;
+ 	width: 40%;
+ 	height: 50%;
+ }
+ .start p{
+
+ 	color: #fff;
+ 	font-size: 20px;
+ }
+ #p1{
+ 	font-size: 30px;
+ }
+.portafolios div{
+	display: flex;
+ justify-content: space-around;
+	margin: 10px 10px 10px 20px;
+}
+.portafolios img{
+	width: 100%;
+	height: 100%;
+}
+.portafolios p{
+	font-size: 30px;
+}
+.about div{
+	height:40%;
+	width:40%;
+	display: inline-block;
+	margin-left: 50px;
+	text-align: justify;
+	color: #fff;
+}
+.about {
+	background-color: #5be2a2;;
+}
+ input{
+ 	margin-left: 300px;
+ 	margin-top: 15px;
+ 	width: 50%;
+	display: inline-block;
+}
+#enviar{
+	margin-top: 15px;
+ 	margin-left: 300px;
+	display: inline-block;
+}
+.location{
+	background-color:#c7f0f9;
+}
+#loc1 div{
+	display: inline-block;
+	margin: 20px 70px 5px 180px ;
+}
+#loc2 div{
+	display: inline-block;
+	margin: 1px 5px 5px 170px ;
+}
+#loc2 a{
+	display: inline-block;
+	margin: 1px 2px 5px 3px ;
+
+}
+#loc2 img{
+	width: 50px;
+	height: 50px;
+}
+
+
+
